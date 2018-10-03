@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Jack P Price | Technical Consultant</title>
+    <link>https://jpprice.co.uk/contact/</link>
+    <description>Recent content in Contact on Jack P Price | Technical Consultant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate>
+    
+	<atom:link href="https://jpprice.co.uk/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
